@@ -1,0 +1,86 @@
+{
+    "welcome": "Bäherden keramiki önümleri kärhanasy",
+    "navigation": {
+      "home": "Esasy sahypa",
+      "about": "Biz barada",
+      "products": "Önümlerimiz",
+      "contact": "Habarlaşmak üçin"
+    },
+    "products": {
+    "title": "Önümler",
+    "tiles": {
+      "heading": "Kafel önümleri",
+      "description": "Biziñ kärhanamyz kafeliñ herdürli görnüşlerini öndürýär. Olar diwar üçin kafel we ýer üçin kafel bolup durýarlar.",
+        "size": "Razmer",
+        "color": "Reňk"
+
+    },
+    "sanitaryware": {
+      "heading": "Sanfaýans önümleri",
+      "description": "Şeýle hem biziñ kärhanamyz dürli görnüşde sanfaýans önümlerini öndürýar.",
+      "material": "Material",
+      "dimensions": "Ölçegi",
+      "price": "Bahasy",
+      "color": "Reňk"
+    }
+  },
+  "news": {
+            "title": "Habarlar",
+            "close": "Yapmak",
+            "readMore": "Dowamyny okamak",
+            "published": "Опубликовано"
+        },
+
+  "back": {
+    "back": "Yza"
+},
+"add": {
+  "add_to_cart": "Sebede goş"
+},
+"contact": {
+  "title": "Bäherden keramiki önümleri kärhanasynyň habarlaşmak üçin maglumatlary",
+  "address": "Salgysy",
+  "placeholderaddress": "Ahal welaýatynyň Bäherden etraby",
+  "phone": "Telefon belgisi",
+  "placeholderphone": "+993 6x xx xx xx",
+  "email": "E-poçta",
+  "placeholderemail": "baherdenkeramika"
+},
+    "about": {
+      "title": "Biz barada",
+      "text": "Bäherden keramiki önümler kärhanasy, Türkmenistanda, Ahal welaýatynyň Bäherden etrabynda ýerleşip, ýokary hilli keramiki önümleriň önümçiligi bilen meşgullanýar. Bu kärhanada ýer plitalary, diwar plitalary, keramogranit plitalary we dürli görnüşli sanfaýans önümleri öndürilýär. Kärhana häzirki zaman tehnologik enjamlary bilen enjamlaşdyrylyp, milli we halkara hil ülňülerine laýyk gelýän önümleri öndürmeklige ýöriteleşendir. Bu ýerde öndürilýän önümler gurluşyk we bezeg maksatlary üçin giňden ulanylyp, olaryň ýokary berkligi, çydamlylygy we estetiki görnüşi bilen tapawutlanýar.",
+      "tabs": {
+          "about": "Biz barada",
+          "gallery": "Galereya"
+      }
+    },
+        "feedback": {
+    "title": "Ses bildirmek",
+    "name": "Ady",
+    "name_placeholder": "Adyňyzy ýazyň",
+    "email": "Email",
+    "email_placeholder": "Emailiňizi ýazyň",
+    "subject": "Tema",
+    "select_subject": "Tema saýlaň",
+    "question": "Sorag",
+    "order": "Sargyt",
+    "cooperation": "Hyzmatdaşlyk",
+    "other": "Başga",
+    "subjects": {
+      "question": "Sorag",
+      "order": "Sargyt",
+      "cooperation": "Hyzmatdaşlyk",
+      "other": "Başga"
+    },
+    "message": "Habar",
+    "message_placeholder": "Habaryňyzy ýazyň",
+    "submit": "Ugrat",
+    "sending": "Ugradylýar",
+    "success": "Habar ugradyldy! Moderasiýadan soň peýda bolar.",
+    "error": "Ugratmakda ýalňyşlyk. Gaýtadan synanyşyň.",
+    "approved_comments": "Tassyklanan teswirler"
+  }
+    
+}
+  
+  
