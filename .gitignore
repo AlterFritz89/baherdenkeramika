@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -6,18 +5,10 @@ __pycache__/
 .Python
 env/
 venv/
-*.env
-db.sqlite3
-data.json
-
-# Django
-staticfiles/
+*.sqlite3
 media/
-
-# Node.js
+staticfiles/
+.env
+*.log
 node_modules/
 dist/
-
-# IDE
-.idea/
-*.log
